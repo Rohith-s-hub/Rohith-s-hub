@@ -75,16 +75,12 @@ fun_fact: My AI agent has its own voice personality — M.E.E.R.A.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-s-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-s-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+<img height="165" src="./profile/stats.svg" />
+<img height="165" src="./profile/top-langs.svg" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Rohith-s-hub&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rohith-s-hub&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
 
 </div>
 
