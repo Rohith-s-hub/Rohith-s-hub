@@ -1,37 +1,109 @@
-# Hi, I'm Rohith 👋
+<div align="center">
 
-**BSc Computer Science student · Sivakasi, Tamil Nadu, India**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0b0f19,100:00ff9f&text=Rohith%20R&fontColor=ffffff&fontSize=55&fontAlignY=35&desc=AI%20Integrated%20Fullstack%20Developer&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-I build developer tools that make software creation faster and more accessible.
+<a href="https://github.com/Rohith-s-hub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FF9F&center=true&vCenter=true&width=650&lines=AI+Integrated+Fullstack+Developer;Creator+of+Oblivion+AI+%F0%9F%A4%96;Building+M.E.E.R.A.+%E2%80%94+voice-first+coding+agent;pip+install+oblivion-agent;B.Sc+CS+Student+%40+ANJAC%2C+Sivakasi" alt="Typing SVG" />
+</a>
 
-## 🚀 Featured Project — Oblivion
+<br/>
 
-[![Oblivion](https://img.shields.io/badge/Oblivion-Terminal_AI_Coding_Agent-00ff9f?style=for-the-badge)](https://github.com/Rohith-s-hub/Oblivion-agent)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-rajkumar-040676315/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0b0f19?style=for-the-badge&logo=vercel&logoColor=00ff9f)](https://rohith.run.place/)
+[![Oblivion Web](https://img.shields.io/badge/Oblivion_Web-000000?style=for-the-badge&logo=googlechrome&logoColor=00ff9f)](https://oblivion.run.place/)
+[![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/oblivion-agent/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithrajkumar5132@gmail.com)
 
-**[Oblivion](https://github.com/Rohith-s-hub/Oblivion-agent)** — Terminal AI coding agent with voice, RAG, and 13-model support.
+<img src="https://komarev.com/ghpvc/?username=Rohith-s-hub&label=Profile%20Views&color=00ff9f&style=for-the-badge" alt="profile views"/>
 
-- 📦 On PyPI: `pip install oblivion-agent`
-- ⚡ 22 tools, 10 MCP-exposed, hybrid semantic search
-- 🎙️ Voice input (Whisper) + output (Meera personality)
-- 🌐 [Documentation](https://github.com/Rohith-s-hub/Oblivion-agent#readme)
+</div>
 
-[![PyPI](https://img.shields.io/pypi/v/oblivion-agent.svg)](https://pypi.org/project/oblivion-agent/)
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+whoami: Rohith R
+role: AI Integrated Fullstack Developer
+study: B.Sc. Computer Science, Ayya Nadar Janaki Ammal College, Sivakasi, TN
+focus: Terminal-native AI agents · Full-stack security tooling · Voice UX
+currently: Placement prep + shipping Oblivion / CascadeX
+fun_fact: My AI agent has its own voice personality — M.E.E.R.A. 🎙️
+```
+
+<br/>
+
+## 🚀 Featured Project — Oblivion AI
+
+<div align="center">
+
+[![Oblivion](https://img.shields.io/badge/Oblivion-Terminal_AI_Coding_Agent-00ff9f?style=for-the-badge&logo=windowsterminal&logoColor=black)](https://github.com/Rohith-s-hub/oblivion)
+[![PyPI version](https://img.shields.io/pypi/v/oblivion-agent.svg?style=for-the-badge&color=00ff9f&labelColor=0b0f19)](https://pypi.org/project/oblivion-agent/)
 [![Downloads](https://static.pepy.tech/badge/oblivion-agent)](https://pepy.tech/project/oblivion-agent)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Rohith-s-hub/Oblivion-agent/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-00ff9f?style=for-the-badge&labelColor=0b0f19)](https://github.com/Rohith-s-hub/oblivion/blob/main/LICENSE)
 
-## 📫 Connect
+</div>
 
-- **GitHub:** [@Rohith-s-hub](https://github.com/Rohith-s-hub)
-- **PyPI:** [Rohith.R](https://pypi.org/project/oblivion-agent/)
+**[Oblivion AI](https://github.com/Rohith-s-hub/oblivion)** — a free, open-source, terminal-native AI coding agent powered by **M.E.E.R.A.**, with voice I/O, hybrid RAG, and multi-model fallback.
 
-## 💻 Tech I use
+- 🧠 3-layer hybrid search (FTS5 + ChromaDB + semantic) with AST-aware chunking
+- 🛠️ 38 tools across a ReAct reasoning loop with a 3-tier permission system
+- 🎙️ Voice input (faster-whisper) + voice output, Jarvis-style personality (M.E.E.R.A.)
+- 🔌 MCP server exposing 10 tools · supports 13 LLM models across providers
+- 🌐 Try it live → **[oblivion.run.place](https://oblivion.run.place/)**
+- 📦 `pip install oblivion-agent`
 
-Python · Textual · LiteLLM · ChromaDB · Whisper · MCP · Git · SQLite · uv
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,react,postgres,redis,sqlite,git,docker,nginx,vscode&theme=dark" />
+
+</div>
+
+<div align="center">
+
+`Python` · `Textual` · `LiteLLM` · `ChromaDB` · `Whisper` · `MCP` · `Django` · `React` · `PostgreSQL` · `Celery` · `Redis` · `Git` · `uv`
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohith-s-hub&show_icons=true&theme=tokyonight)
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-s-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-s-hub&layout=compact&theme=tokyonight&hide_border=true" />
 
-*"Code is conversation. Make it natural."* — Meera (built for Oblivion)
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-s-hub&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Rohith-s-hub&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rohith-s-hub/Rohith-s-hub/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohith-s-hub/Rohith-s-hub/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Rohith-s-hub/Rohith-s-hub/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*(one-time setup below — the snake eats your contribution graph and animates it)*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00ff9f,100:0b0f19&section=footer&animation=fadeIn" width="100%"/>
