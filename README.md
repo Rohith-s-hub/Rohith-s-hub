@@ -20,7 +20,7 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+## <img width="22" height="22" src="https://api.iconify.design/lucide/user.svg?color=%2300ff9f"/> About Me
 
 ```yaml
 whoami: Rohith R
@@ -28,12 +28,12 @@ role: AI Integrated Fullstack Developer
 study: B.Sc. Computer Science, Ayya Nadar Janaki Ammal College, Sivakasi, TN
 focus: Terminal-native AI agents · Full-stack security tooling · Voice UX
 currently: Placement prep + shipping Oblivion / CascadeX
-fun_fact: My AI agent has its own voice personality — M.E.E.R.A. 🎙️
+fun_fact: My AI agent has its own voice personality — M.E.E.R.A.
 ```
 
 <br/>
 
-## 🚀 Featured Project — Oblivion AI
+## <img width="22" height="22" src="https://api.iconify.design/lucide/rocket.svg?color=%2300ff9f"/> Featured Project — Oblivion AI
 
 <div align="center">
 
@@ -46,16 +46,16 @@ fun_fact: My AI agent has its own voice personality — M.E.E.R.A. 🎙️
 
 **[Oblivion AI](https://github.com/Rohith-s-hub/oblivion)** — a free, open-source, terminal-native AI coding agent powered by **M.E.E.R.A.**, with voice I/O, hybrid RAG, and multi-model fallback.
 
-- 🧠 3-layer hybrid search (FTS5 + ChromaDB + semantic) with AST-aware chunking
-- 🛠️ 38 tools across a ReAct reasoning loop with a 3-tier permission system
-- 🎙️ Voice input (faster-whisper) + voice output, Jarvis-style personality (M.E.E.R.A.)
-- 🔌 MCP server exposing 10 tools · supports 13 LLM models across providers
-- 🌐 Try it live → **[oblivion.run.place](https://oblivion.run.place/)**
-- 📦 `pip install oblivion-agent`
+- <img width="16" height="16" src="https://api.iconify.design/lucide/brain.svg?color=%2300ff9f"/> 3-layer hybrid search (FTS5 + ChromaDB + semantic) with AST-aware chunking
+- <img width="16" height="16" src="https://api.iconify.design/lucide/wrench.svg?color=%2300ff9f"/> 38 tools across a ReAct reasoning loop with a 3-tier permission system
+- <img width="16" height="16" src="https://api.iconify.design/lucide/mic.svg?color=%2300ff9f"/> Voice input (faster-whisper) + voice output, Jarvis-style personality (M.E.E.R.A.)
+- <img width="16" height="16" src="https://api.iconify.design/lucide/plug.svg?color=%2300ff9f"/> MCP server exposing 10 tools · supports 13 LLM models across providers
+- <img width="16" height="16" src="https://api.iconify.design/lucide/globe.svg?color=%2300ff9f"/> Try it live → **[oblivion.run.place](https://oblivion.run.place/)**
+- <img width="16" height="16" src="https://api.iconify.design/lucide/package.svg?color=%2300ff9f"/> `pip install oblivion-agent`
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img width="22" height="22" src="https://api.iconify.design/lucide/wrench.svg?color=%2300ff9f"/> Tech Stack
 
 <div align="center">
 
@@ -71,16 +71,16 @@ fun_fact: My AI agent has its own voice personality — M.E.E.R.A. 🎙️
 
 <br/>
 
-## 📊 GitHub Stats
+## <img width="22" height="22" src="https://api.iconify.design/lucide/bar-chart-3.svg?color=%2300ff9f"/> GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-s-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-s-hub&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rohith-s-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-s-hub&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-s-hub&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Rohith-s-hub&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -90,7 +90,7 @@ fun_fact: My AI agent has its own voice personality — M.E.E.R.A. 🎙️
 
 <br/>
 
-## 🐍 Contribution Snake
+## <img width="22" height="22" src="https://api.iconify.design/lucide/activity.svg?color=%2300ff9f"/> Contribution Snake
 
 <div align="center">
 
@@ -99,8 +99,6 @@ fun_fact: My AI agent has its own voice personality — M.E.E.R.A. 🎙️
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rohith-s-hub/Rohith-s-hub/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Rohith-s-hub/Rohith-s-hub/output/github-contribution-grid-snake.svg" />
 </picture>
-
-*(one-time setup below — the snake eats your contribution graph and animates it)*
 
 </div>
 
